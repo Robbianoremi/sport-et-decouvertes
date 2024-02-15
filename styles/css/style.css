@@ -11872,4 +11872,8 @@ textarea.form-control-lg {
   z-index: -1;
 }
 
+iframe {
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
